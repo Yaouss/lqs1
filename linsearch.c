@@ -40,4 +40,7 @@ int main() {
     }
 
     if (!found)
-        printf("Element %d not found in t
+        printf("Element %d not found in the matrix.\n", key);
+
+    return 0;
+}
